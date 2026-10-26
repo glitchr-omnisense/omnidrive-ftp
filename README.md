@@ -1,10 +1,10 @@
 # omnidrive/ftp
 
-A directory of an FTP or FTPS server as an [omnidrive](https://github.com/glitchr-studio/omnidrive)
+A directory of an FTP or FTPS server as an [omnidrive](https://github.com/glitchr-omnisense/omnidrive)
 drive, through league/flysystem-ftp (PHP's ftp extension).
 
 ```sh
-composer require omniscient/omnidrive omnidrive/ftp
+composer require omnisense/omnidrive omnidrive/ftp
 ```
 
 ```php

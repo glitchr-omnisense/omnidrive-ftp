@@ -1,16 +1,16 @@
 # omnidrive/ftp
 
 A directory of an FTP or FTPS server as an
-[omniscient/omnidrive](https://github.com/glitchr-studio/omnidrive) drive, through
+[omnisense/omnidrive](https://github.com/glitchr-omnisense/omnidrive) drive, through
 league/flysystem-ftp (`FtpAdapter`, PHP's `ftp` extension).
 
 ## Installation
 
 ```sh
-composer require omniscient/omnidrive omnidrive/ftp
+composer require omnisense/omnidrive omnidrive/ftp
 ```
 
-Requires PHP 8.2 with `ext-ftp`, `omniscient/omnidrive` (1.x) and `league/flysystem-ftp` (^3.0).
+Requires PHP 8.2 with `ext-ftp`, `omnisense/omnidrive` (1.x) and `league/flysystem-ftp` (^3.0).
 
 ## Credentials
 
@@ -112,4 +112,4 @@ Windows servers.
 
 An independent, unofficial client, not affiliated with The PHP League. Whoever runs it is responsible for the data it stores and the
 access it gives (a public or temporary address serves the file to whoever holds it); see the core's
-Responsibility section ([omniscient/omnidrive](https://github.com/glitchr-studio/omnidrive#responsibility)).
+Responsibility section ([omnisense/omnidrive](https://github.com/glitchr-omnisense/omnidrive#responsibility)).
