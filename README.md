@@ -45,4 +45,6 @@ The connection is opened on the first operation. `capabilities()`: not local, pu
   and a copy, which keeps its source's visibility by default, fails: give such a drive
   `retain_visibility: false`.
 
-License: MIT. Unofficial; not affiliated with The PHP League.
+## Responsibility
+
+Unofficial; affiliated with none of the servers it reaches, nor with The PHP League. Each server keeps its own terms; whoever runs this package answers for the credentials it holds, the data it stores and the access a public address gives. MIT licence.
