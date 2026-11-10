@@ -45,6 +45,15 @@ The connection is opened on the first operation. `capabilities()`: not local, pu
   and a copy, which keeps its source's visibility by default, fails: give such a drive
   `retain_visibility: false`.
 
+## Usage policy
+
+`policy.json` (omnisense/contracts' schema, named in `composer.json` as `extra.omnisense.policy`;
+read on 2026-11-10): No third party of the package's: the FTP server the site names. No limit
+(`[]`); a rented server's operator's terms are the site's to add. The key is the server's account.
+Nothing is retried. Nothing in the drive counts calls; [the family's
+page](https://github.com/glitchr-omnisense/omnidrive/blob/1.x/docs/policies.md) has every
+provider's.
+
 ## Responsibility
 
 Unofficial; affiliated with none of the servers it reaches, nor with The PHP League. Each server keeps its own terms; whoever runs this package answers for the credentials it holds, the data it stores and the access a public address gives. MIT licence.
